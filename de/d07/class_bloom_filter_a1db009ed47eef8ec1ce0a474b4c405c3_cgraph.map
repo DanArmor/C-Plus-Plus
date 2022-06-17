@@ -1,5 +1,6 @@
 <map id="BloomFilter::contains" name="BloomFilter::contains">
-<area shape="rect" id="node1" title="Check element function for Bloom filter." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node1" title="Check element function for Bloom filter." alt="" coords="5,31,151,57"/>
 <area shape="rect" id="node2" href="$d6/d09/class_bitset.html#a0bfb11045c04611233dc6e3b42484a19" title="Doest bitset contains element x." alt="" coords="199,5,312,32"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/size.html#" title=" " alt="" coords="360,5,476,32"/>
+<area shape="rect" id="node4" href="$d6/d09/class_bitset.html#a9a87183ba06f46eff7a64b5e9b3a836e" title="Returns size of inner array." alt="" coords="211,56,299,83"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/size.html#" title=" " alt="" coords="360,31,476,57"/>
 </map>

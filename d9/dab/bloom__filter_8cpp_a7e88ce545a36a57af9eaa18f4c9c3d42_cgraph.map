@@ -1,0 +1,7 @@
+<map id="test_bitset" name="test_bitset">
+<area shape="rect" id="node1" title="Test for bitset." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node2" href="$d6/d09/class_bitset.html#a60e5462233fa5852f1e4e4593d41a601" title="Turn bit on position x to 1s." alt="" coords="150,5,235,32"/>
+<area shape="rect" id="node5" href="$d6/d09/class_bitset.html#a0bfb11045c04611233dc6e3b42484a19" title="Doest bitset contains element x." alt="" coords="136,56,249,83"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/resize.html#" title=" " alt="" coords="297,5,424,32"/>
+<area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/size.html#" title=" " alt="" coords="303,56,419,83"/>
+</map>

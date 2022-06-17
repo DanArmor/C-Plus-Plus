@@ -1,5 +1,13 @@
 var NAVTREEINDEX12 =
 {
+"de/dc5/intersection__of__two__arrays_8cpp.html#abdd77344d4af8fd56d14a5cabbf2f669":[11,0,15,4,5],
+"de/dc5/intersection__of__two__arrays_8cpp.html#adaf9a06f0c236c2d95c97e441ea2d12e":[11,0,15,4,0],
+"de/dc5/intersection__of__two__arrays_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,15,4,1],
+"de/dc5/intersection__of__two__arrays_8cpp.html#af7b81d7a1534216af6a36a80135beb86":[11,0,15,4,8],
+"de/dcd/kadanes3_8cpp.html":[11,0,16,7],
+"de/dcd/kadanes3_8cpp.html#a338439a04148ae89f695595acfa5c147":[11,0,16,7,1],
+"de/dcd/kadanes3_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,16,7,2],
+"de/dcd/kadanes3_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,16,7,0],
 "de/dcf/binary__exponent_8cpp.html":[11,0,13,3],
 "de/dcf/binary__exponent_8cpp.html#a31dbf5f7ceb9c9eec831ef9f7782291f":[11,0,13,3,1],
 "de/dcf/binary__exponent_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,3,2],
@@ -116,8 +124,8 @@ var NAVTREEINDEX12 =
 "df/d94/subarray__sum_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,0,7,2],
 "df/d94/subarray__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,0,7,0],
 "df/d94/subarray__sum_8cpp.html#af5687bbd9faf927fbd363c71e0baba5e":[11,0,0,7,1],
-"df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[10,0,15,5],
 "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[9,0,104,5],
+"df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html":[10,0,15,5],
 "df/dc8/successive__approximation_8cpp.html":[11,0,14,22],
 "df/dc8/successive__approximation_8cpp.html#a79c1d08919ff7780a5d7723172602389":[11,0,14,22,0],
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,14,22,2],
@@ -178,8 +186,8 @@ var NAVTREEINDEX12 =
 "dir_f3c4fbc4e901afa0a54d0623c5574aa7.html":[11,0,1],
 "examples.html":[12],
 "files.html":[11,0],
-"functions.html":[10,3,0,0],
 "functions.html":[10,3,0],
+"functions.html":[10,3,0,0],
 "functions_a.html":[10,3,0,1],
 "functions_b.html":[10,3,0,2],
 "functions_c.html":[10,3,0,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX12 =
 "globals_d.html":[11,1,0,4],
 "globals_defs.html":[11,1,4],
 "globals_e.html":[11,1,0,5],
-"globals_f.html":[11,1,0,6],
-"globals_func.html":[11,1,1],
-"globals_func.html":[11,1,1,0],
-"globals_func_a.html":[11,1,1,1],
-"globals_func_b.html":[11,1,1,2],
-"globals_func_c.html":[11,1,1,3],
-"globals_func_d.html":[11,1,1,4],
-"globals_func_e.html":[11,1,1,5],
-"globals_func_f.html":[11,1,1,6]
+"globals_f.html":[11,1,0,6]
 };
