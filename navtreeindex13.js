@@ -1,5 +1,11 @@
 var NAVTREEINDEX13 =
 {
+"globals_func_p.html":[11,1,1,15],
+"globals_func_q.html":[11,1,1,16],
+"globals_func_r.html":[11,1,1,17],
+"globals_func_s.html":[11,1,1,18],
+"globals_func_t.html":[11,1,1,19],
+"globals_func_u.html":[11,1,1,20],
 "globals_func_z.html":[11,1,1,21],
 "globals_g.html":[11,1,0,7],
 "globals_h.html":[11,1,0,8],
@@ -20,8 +26,8 @@ var NAVTREEINDEX13 =
 "globals_w.html":[11,1,0,21],
 "globals_z.html":[11,1,0,22],
 "hierarchy.html":[10,2],
-"index.html":[0],
 "index.html":[],
+"index.html":[0],
 "index.html#autotoc_md100":[0,0],
 "index.html#autotoc_md101":[0,1],
 "index.html#autotoc_md102":[0,2],

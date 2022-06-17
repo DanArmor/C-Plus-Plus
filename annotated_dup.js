@@ -147,6 +147,8 @@ var annotated_dup =
       [ "is_unsigned< uint256_t >", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
     ] ],
     [ "binary_search_tree", "d9/dde/classbinary__search__tree.html", "d9/dde/classbinary__search__tree" ],
+    [ "Bitset", "d6/d09/class_bitset.html", "d6/d09/class_bitset" ],
+    [ "BloomFilter", "de/d07/class_bloom_filter.html", null ],
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
     [ "Compare", "de/d4a/class_compare.html", "de/d4a/class_compare" ],
@@ -168,8 +170,8 @@ var annotated_dup =
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],
-    [ "node", "d5/da1/structnode.html", "d5/da1/structnode" ],
     [ "Node", "db/d8b/struct_node.html", null ],
+    [ "node", "d5/da1/structnode.html", "d5/da1/structnode" ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
     [ "queue", "db/da9/classqueue.html", "db/da9/classqueue" ],
