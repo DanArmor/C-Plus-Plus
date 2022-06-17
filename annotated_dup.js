@@ -148,7 +148,7 @@ var annotated_dup =
     ] ],
     [ "binary_search_tree", "d9/dde/classbinary__search__tree.html", "d9/dde/classbinary__search__tree" ],
     [ "Bitset", "d6/d09/class_bitset.html", "d6/d09/class_bitset" ],
-    [ "BloomFilter", "de/d07/class_bloom_filter.html", null ],
+    [ "BloomFilter", "de/d07/class_bloom_filter.html", "de/d07/class_bloom_filter" ],
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
     [ "Compare", "de/d4a/class_compare.html", "de/d4a/class_compare" ],

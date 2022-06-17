@@ -1,5 +1,8 @@
 var NAVTREEINDEX8 =
 {
+"d8/dc8/struct_point.html#afa38be143ae800e6ad69ce8ed4df62d8":[10,0,42,3],
+"d8/dcc/binary__insertion__sort_8cpp.html":[11,0,20,0],
+"d8/dcc/binary__insertion__sort_8cpp.html#a034d8b276518a902962e87d3158b64fd":[11,0,20,0,0],
 "d8/dcc/binary__insertion__sort_8cpp.html#a5f4bc75cca6dd8294af2d0e328006c68":[11,0,20,0,1],
 "d8/dcc/binary__insertion__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,20,0,3],
 "d8/dcc/binary__insertion__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,20,0,2],
@@ -65,12 +68,12 @@ var NAVTREEINDEX8 =
 "d9/d14/array__left__rotation_8cpp.html#af7b81d7a1534216af6a36a80135beb86":[11,0,15,0,8],
 "d9/d14/array__left__rotation_8cpp.html#afce39cf843989a39811a49ebe29dd6d8":[11,0,15,0,2],
 "d9/d21/namespacewave__sort.html":[9,0,119],
-"d9/d23/classgraph_1_1_lowest_common_ancestor.html":[10,0,4,3],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html":[9,0,33,2],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html":[10,0,4,3],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a42589cc39d6bbff6c997152f1b96e356":[10,0,4,3,2],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a42589cc39d6bbff6c997152f1b96e356":[9,0,33,2,2],
-"d9/d23/classgraph_1_1_lowest_common_ancestor.html#a46d10f669791e3da9a4809bd8ff8d3ad":[9,0,33,2,3],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a46d10f669791e3da9a4809bd8ff8d3ad":[10,0,4,3,3],
+"d9/d23/classgraph_1_1_lowest_common_ancestor.html#a46d10f669791e3da9a4809bd8ff8d3ad":[9,0,33,2,3],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a60151e19512b48cc0b14ea121df00488":[10,0,4,3,1],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a60151e19512b48cc0b14ea121df00488":[9,0,33,2,1],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a80825a4fd4c41860b689d253dd2c8e93":[10,0,4,3,0],
@@ -109,8 +112,8 @@ var NAVTREEINDEX8 =
 "d9/d49/structdata__structures_1_1_node.html":[10,0,1,7],
 "d9/d49/structdata__structures_1_1_node.html#a54a6777e72b639c3ee6446a541db8e78":[10,0,1,7,0],
 "d9/d49/structdata__structures_1_1_node.html#a54a6777e72b639c3ee6446a541db8e78":[9,0,20,0,0],
-"d9/d49/structdata__structures_1_1_node.html#a6b973b0bded99b0c0bd84e887bf8c731":[10,0,1,7,3],
 "d9/d49/structdata__structures_1_1_node.html#a6b973b0bded99b0c0bd84e887bf8c731":[9,0,20,0,3],
+"d9/d49/structdata__structures_1_1_node.html#a6b973b0bded99b0c0bd84e887bf8c731":[10,0,1,7,3],
 "d9/d49/structdata__structures_1_1_node.html#ac75aa86a598357c5c882ec6a1174aa68":[10,0,1,7,2],
 "d9/d49/structdata__structures_1_1_node.html#ac75aa86a598357c5c882ec6a1174aa68":[9,0,20,0,2],
 "d9/d49/structdata__structures_1_1_node.html#ac916d833aad2b9c41f01a92db2f8c48e":[10,0,1,7,1],
@@ -171,8 +174,8 @@ var NAVTREEINDEX8 =
 "d9/dde/classbinary__search__tree.html#af9a2c7c187a7ca3142c77ce342ef3153":[10,0,16,6],
 "d9/dde/structdouble__hashing_1_1_entry.html":[10,0,2,0],
 "d9/dde/structdouble__hashing_1_1_entry.html":[9,0,25,0],
-"d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475":[9,0,25,0,0],
 "d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475":[10,0,2,0,0],
+"d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475":[9,0,25,0,0],
 "d9/dde/structdouble__hashing_1_1_entry.html#ae114967c89dbba3b754dc4976bba3248":[10,0,2,0,1],
 "d9/dde/structdouble__hashing_1_1_entry.html#ae114967c89dbba3b754dc4976bba3248":[9,0,25,0,1],
 "d9/dee/classdouble__linked__list.html":[10,0,25],
@@ -246,8 +249,5 @@ var NAVTREEINDEX8 =
 "da/d4b/depth__first__search__with__stack_8cpp.html":[11,0,8,5],
 "da/d4b/depth__first__search__with__stack_8cpp.html#a330a2b0a904f01802ada1f8f3b28e76c":[11,0,8,5,6],
 "da/d4b/depth__first__search__with__stack_8cpp.html#a43e30173f12330e85cce6239a277527e":[11,0,8,5,5],
-"da/d4b/depth__first__search__with__stack_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[11,0,8,5,3],
-"da/d4b/depth__first__search__with__stack_8cpp.html#a5738da9f508f6a9e87f123c9fb6f2ea9":[11,0,8,5,1],
-"da/d4b/depth__first__search__with__stack_8cpp.html#a7f1cd94cf4da32933e8551cb3577e18b":[11,0,8,5,4],
-"da/d4b/depth__first__search__with__stack_8cpp.html#aadebe9c855821d6515ca5b171222ef7b":[11,0,8,5,0]
+"da/d4b/depth__first__search__with__stack_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[11,0,8,5,3]
 };

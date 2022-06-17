@@ -1,5 +1,8 @@
 var NAVTREEINDEX11 =
 {
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a164574a9209b5df66368530d090b32c4":[10,0,1,5,0,2],
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a22fd25c6c811c64b6b27b0850d8c532f":[10,0,1,5,0,1],
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a2753b6053b8c86c5bd987a44fdfa0a57":[10,0,1,5,0,10],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a28944bb16ec22650b47fe3e80e3e13f8":[10,0,1,5,0,20],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a306a30931f54c84098b38d6bc8f4a956":[10,0,1,5,0,15],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a441cbee9896391f2b167d5aa7b4f8c95":[10,0,1,5,0,8],
@@ -129,6 +132,11 @@ var NAVTREEINDEX11 =
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#ad8c10df34357b2cd865c81e0c4f0bd8c":[10,0,4,0,0,1],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef":[10,0,4,0,0,4],
 "de/d07/class_bloom_filter.html":[10,0,18],
+"de/d07/class_bloom_filter.html#a1c6f01b0b4cff15fa2ea847b8971d2a3":[10,0,18,0],
+"de/d07/class_bloom_filter.html#a1db009ed47eef8ec1ce0a474b4c405c3":[10,0,18,2],
+"de/d07/class_bloom_filter.html#a4f3cf9dce414dfbd00d8b7869c7a34b3":[10,0,18,3],
+"de/d07/class_bloom_filter.html#abf74bba3385a4329341dea6a84ea7e28":[10,0,18,1],
+"de/d07/class_bloom_filter.html#ad5b2ddca50f49222fdc096da9bc53305":[10,0,18,4],
 "de/d07/cycle__sort_8cpp.html":[11,0,20,5],
 "de/d07/cycle__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,20,5,2],
 "de/d07/cycle__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,20,5,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX11 =
 "de/dcd/kadanes3_8cpp.html":[11,0,16,7],
 "de/dcd/kadanes3_8cpp.html#a338439a04148ae89f695595acfa5c147":[11,0,16,7,1],
 "de/dcd/kadanes3_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,16,7,2],
-"de/dcd/kadanes3_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,16,7,0],
-"de/dcf/binary__exponent_8cpp.html":[11,0,13,3],
-"de/dcf/binary__exponent_8cpp.html#a31dbf5f7ceb9c9eec831ef9f7782291f":[11,0,13,3,1],
-"de/dcf/binary__exponent_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,3,2],
-"de/dcf/binary__exponent_8cpp.html#aeb48dce0725e63d19147944f41843c73":[11,0,13,3,0],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html":[10,0,8,2,0],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a1c0d27198372b36ef71bc58af8336b9c":[10,0,8,2,0,6],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a2e683b271d8d5cd63e0d09cf8aaa325c":[10,0,8,2,0,3],
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a534645d1aabdf1a7e5897c85376f173d":[10,0,8,2,0,2]
+"de/dcd/kadanes3_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,16,7,0]
 };

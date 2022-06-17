@@ -97,6 +97,9 @@ $(document).ready(function(){initNavTree('de/d07/class_bloom_filter.html','../..
   <div class="headertitle"><div class="title">BloomFilter&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Bloom filter template class.  
+ <a href="../../de/d07/class_bloom_filter.html#details">More...</a></p>
 <div class="dynheader">
 Collaboration diagram for BloomFilter&lt; T &gt;:</div>
 <div class="dyncontent">
@@ -107,22 +110,36 @@ Collaboration diagram for BloomFilter&lt; T &gt;:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a1c6f01b0b4cff15fa2ea847b8971d2a3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d07/class_bloom_filter.html#a1c6f01b0b4cff15fa2ea847b8971d2a3">BloomFilter</a> (<a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> size, <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/utility/initializer_list.html">std::initializer_list</a>&lt; <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/utility/functional/function.html">std::function</a>&lt; <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a>(T)&gt; &gt; funks)</td></tr>
+<tr class="memdesc:a1c6f01b0b4cff15fa2ea847b8971d2a3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor for Bloom filter.  <a href="../../de/d07/class_bloom_filter.html#a1c6f01b0b4cff15fa2ea847b8971d2a3">More...</a><br /></td></tr>
 <tr class="separator:a1c6f01b0b4cff15fa2ea847b8971d2a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abf74bba3385a4329341dea6a84ea7e28"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d07/class_bloom_filter.html#abf74bba3385a4329341dea6a84ea7e28">add</a> (T x)</td></tr>
+<tr class="memdesc:abf74bba3385a4329341dea6a84ea7e28"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add function for Bloom filter.  <a href="../../de/d07/class_bloom_filter.html#abf74bba3385a4329341dea6a84ea7e28">More...</a><br /></td></tr>
 <tr class="separator:abf74bba3385a4329341dea6a84ea7e28"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1db009ed47eef8ec1ce0a474b4c405c3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d07/class_bloom_filter.html#a1db009ed47eef8ec1ce0a474b4c405c3">contains</a> (T x)</td></tr>
+<tr class="memdesc:a1db009ed47eef8ec1ce0a474b4c405c3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check element function for Bloom filter.  <a href="../../de/d07/class_bloom_filter.html#a1db009ed47eef8ec1ce0a474b4c405c3">More...</a><br /></td></tr>
 <tr class="separator:a1db009ed47eef8ec1ce0a474b4c405c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:ad5b2ddca50f49222fdc096da9bc53305"><td class="memItemLeft" align="right" valign="top"><a id="ad5b2ddca50f49222fdc096da9bc53305" name="ad5b2ddca50f49222fdc096da9bc53305"></a>
 <a class="el" href="../../d6/d09/class_bitset.html">Bitset</a>&#160;</td><td class="memItemRight" valign="bottom"><b>set</b></td></tr>
+<tr class="memdesc:ad5b2ddca50f49222fdc096da9bc53305"><td class="mdescLeft">&#160;</td><td class="mdescRight">inner bitset for elements <br /></td></tr>
 <tr class="separator:ad5b2ddca50f49222fdc096da9bc53305"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4f3cf9dce414dfbd00d8b7869c7a34b3"><td class="memItemLeft" align="right" valign="top"><a id="a4f3cf9dce414dfbd00d8b7869c7a34b3" name="a4f3cf9dce414dfbd00d8b7869c7a34b3"></a>
 <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a>&lt; <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/utility/functional/function.html">std::function</a>&lt; <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a>(T)&gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>hashFunks</b></td></tr>
+<tr class="memdesc:a4f3cf9dce414dfbd00d8b7869c7a34b3"><td class="mdescLeft">&#160;</td><td class="mdescRight">hash functions for T type <br /></td></tr>
 <tr class="separator:a4f3cf9dce414dfbd00d8b7869c7a34b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
+class BloomFilter&lt; T &gt;</div><p >Bloom filter template class. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>type, that we need to hash </td></tr>
+  </table>
+  </dd>
+</dl>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a1c6f01b0b4cff15fa2ea847b8971d2a3" name="a1c6f01b0b4cff15fa2ea847b8971d2a3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a1c6f01b0b4cff15fa2ea847b8971d2a3">&#9670;&nbsp;</a></span>BloomFilter()</h2>
 
@@ -150,7 +167,24 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>    : set(size), hashFunks(funks) {}</div>
+
+<p>Constructor for Bloom filter. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>type, that we need to hash </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">size</td><td>initial size of Bloom filter </td></tr>
+    <tr><td class="paramname">funks</td><td>hash functions for T type </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><span class="lineno">   98</span>    : <a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#ad5b2ddca50f49222fdc096da9bc53305">set</a>(size), <a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#a4f3cf9dce414dfbd00d8b7869c7a34b3">hashFunks</a>(funks) {}</div>
+<div class="ttc" id="aclass_bloom_filter_html_a4f3cf9dce414dfbd00d8b7869c7a34b3"><div class="ttname"><a href="../../de/d07/class_bloom_filter.html#a4f3cf9dce414dfbd00d8b7869c7a34b3">BloomFilter::hashFunks</a></div><div class="ttdeci">std::vector&lt; std::function&lt; std::size_t(T)&gt; &gt; hashFunks</div><div class="ttdoc">hash functions for T type</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:78</div></div>
+<div class="ttc" id="aclass_bloom_filter_html_ad5b2ddca50f49222fdc096da9bc53305"><div class="ttname"><a href="../../de/d07/class_bloom_filter.html#ad5b2ddca50f49222fdc096da9bc53305">BloomFilter::set</a></div><div class="ttdeci">Bitset set</div><div class="ttdoc">inner bitset for elements</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:76</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -172,14 +206,35 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>                            {</div>
-<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">for</span> (<a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> i = 0; i &lt; hashFunks.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>(); i++) {</div>
-<div class="line"><span class="lineno">   73</span>        set.add(hashFunks[i](x));</div>
-<div class="line"><span class="lineno">   74</span>    }</div>
-<div class="line"><span class="lineno">   75</span>}</div>
+
+<p>Add function for Bloom filter. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>type, that we need to hash </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>element to add to filter </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>                            {</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">for</span> (<a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> i = 0; i &lt; <a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#a4f3cf9dce414dfbd00d8b7869c7a34b3">hashFunks</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>(); i++) {</div>
+<div class="line"><span class="lineno">  109</span>        <a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#ad5b2ddca50f49222fdc096da9bc53305">set</a>.<a class="code hl_function" href="../../d6/d09/class_bitset.html#a60e5462233fa5852f1e4e4593d41a601">add</a>(<a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#a4f3cf9dce414dfbd00d8b7869c7a34b3">hashFunks</a>[i](x));</div>
+<div class="line"><span class="lineno">  110</span>    }</div>
+<div class="line"><span class="lineno">  111</span>}</div>
+<div class="ttc" id="aclass_bitset_html_a60e5462233fa5852f1e4e4593d41a601"><div class="ttname"><a href="../../d6/d09/class_bitset.html#a60e5462233fa5852f1e4e4593d41a601">Bitset::add</a></div><div class="ttdeci">void add(std::size_t x)</div><div class="ttdoc">Turn bit on position x to 1s.</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:45</div></div>
 <div class="ttc" id="asize_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/container/vector/size.html">std::vector::size</a></div><div class="ttdeci">T size(T... args)</div></div>
 <div class="ttc" id="asize_t_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a></div></div>
-</div><!-- fragment -->
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d07/class_bloom_filter_abf74bba3385a4329341dea6a84ea7e28_cgraph.svg" width="436" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
 </div>
 </div>
 <a id="a1db009ed47eef8ec1ce0a474b4c405c3" name="a1db009ed47eef8ec1ce0a474b4c405c3"></a>
@@ -199,15 +254,39 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   78</span>                                 {</div>
-<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">for</span> (<a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> i = 0; i &lt; hashFunks.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>(); i++) {</div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">if</span> (set.contains(hashFunks[i](x)) == <span class="keyword">false</span>) {</div>
-<div class="line"><span class="lineno">   81</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   82</span>        }</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   85</span>}</div>
-</div><!-- fragment -->
+
+<p>Check element function for Bloom filter. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>type, that we need to hash </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>element to check in filter </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true if: element probably appears in filter </dd>
+<dd>
+false if: element certainly does not appear in filter </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  122</span>                                 {</div>
+<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">for</span> (<a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> i = 0; i &lt; <a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#a4f3cf9dce414dfbd00d8b7869c7a34b3">hashFunks</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>(); i++) {</div>
+<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#ad5b2ddca50f49222fdc096da9bc53305">set</a>.<a class="code hl_function" href="../../d6/d09/class_bitset.html#a0bfb11045c04611233dc6e3b42484a19">contains</a>(<a class="code hl_variable" href="../../de/d07/class_bloom_filter.html#a4f3cf9dce414dfbd00d8b7869c7a34b3">hashFunks</a>[i](x)) == <span class="keyword">false</span>) {</div>
+<div class="line"><span class="lineno">  125</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  126</span>        }</div>
+<div class="line"><span class="lineno">  127</span>    }</div>
+<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  129</span>}</div>
+<div class="ttc" id="aclass_bitset_html_a0bfb11045c04611233dc6e3b42484a19"><div class="ttname"><a href="../../d6/d09/class_bitset.html#a0bfb11045c04611233dc6e3b42484a19">Bitset::contains</a></div><div class="ttdeci">bool contains(std::size_t x)</div><div class="ttdoc">Doest bitset contains element x.</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:60</div></div>
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d07/class_bloom_filter_a1db009ed47eef8ec1ce0a474b4c405c3_cgraph.svg" width="482" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
