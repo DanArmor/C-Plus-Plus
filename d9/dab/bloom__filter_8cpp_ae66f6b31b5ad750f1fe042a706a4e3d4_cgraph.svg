@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#a7e88ce545a36a57af9eaa18f4c9c3d42" target="_top" xlink:title="Test for bitset.">
+<g id="a_node2"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#a6e509afe40db07681f676ad8da4fb905" target="_top" xlink:title="Test for bitset.">
 <polygon fill="white" stroke="black" points="102,-152.5 102,-171.5 164,-171.5 164,-152.5 102,-152.5"/>
 <text text-anchor="middle" x="133" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">test_bitset</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#ad8d61052ec2b755ddc62c3d39bb0b4f9" target="_top" xlink:title="Test for bloom filter with int as generic type.">
+<g id="a_node7"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#a30edc0d2bb59c185baec81d69d20ed3b" target="_top" xlink:title="Test for bloom filter with int as generic type.">
 <polygon fill="white" stroke="black" points="81,-95.5 81,-114.5 185,-114.5 185,-95.5 81,-95.5"/>
 <text text-anchor="middle" x="133" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00">test_bloom_filter_int</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#a395fb1c44bf82aaa70bfc2051d67ccb1" target="_top" xlink:title="Test for bloom filter with string as generic type.">
+<g id="a_node10"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#a71f57bf262fe55db928b19dc124cc0d8" target="_top" xlink:title="Test for bloom filter with string as generic type.">
 <polygon fill="white" stroke="black" points="74,-38.5 74,-57.5 192,-57.5 192,-38.5 74,-38.5"/>
 <text text-anchor="middle" x="133" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">test_bloom_filter_string</text>
 </a>
@@ -162,7 +162,7 @@
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#a47143d635f96cf46fa60931e81d49f79" target="_top" xlink:title="Function djb2, to get hash for string">
+<g id="a_node11"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#a8acf02700cd197c9d40927d8d8106e0f" target="_top" xlink:title="Function djb2, to get hash for string">
 <polygon fill="white" stroke="black" points="239.5,-38.5 239.5,-57.5 301.5,-57.5 301.5,-38.5 239.5,-38.5"/>
 <text text-anchor="middle" x="270.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">hashDJB2</text>
 </a>
@@ -174,54 +174,33 @@
 <path fill="none" stroke="midnightblue" d="M192.25,-48C204.66,-48 217.51,-48 229.08,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="229.29,-51.5 239.29,-48 229.29,-44.5 229.29,-51.5"/>
 </g>
-<!-- Node13 -->
-<g id="node13" class="node">
-<title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#afbe61f716d8fe976f986bad13cd4bcaa" target="_top" xlink:title="Hash function, to get hash for string">
+<!-- Node12 -->
+<g id="node12" class="node">
+<title>Node12</title>
+<g id="a_node12"><a xlink:href="../../d9/dab/bloom__filter_8cpp.html#ab0bb73bb0fd4cc21c5451acf5339ab47" target="_top" xlink:title="Hash function, to get hash for string">
 <polygon fill="white" stroke="black" points="245.5,-0.5 245.5,-19.5 295.5,-19.5 295.5,-0.5 245.5,-0.5"/>
 <text text-anchor="middle" x="270.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">hashStr</text>
 </a>
 </g>
 </g>
-<!-- Node10&#45;&gt;Node13 -->
-<g id="edge13" class="edge">
-<title>Node10&#45;&gt;Node13</title>
+<!-- Node10&#45;&gt;Node12 -->
+<g id="edge12" class="edge">
+<title>Node10&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M168.19,-38.41C188.72,-32.66 214.73,-25.36 235.27,-19.6"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="236.46,-22.9 245.15,-16.83 234.57,-16.16 236.46,-22.9"/>
 </g>
-<!-- Node12 -->
-<g id="node12" class="node">
-<title>Node12</title>
-<g id="a_node12"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/string/basic_string/size.html#" xlink:title=" ">
-<polygon fill="white" stroke="black" points="354.5,-38.5 354.5,-57.5 438.5,-57.5 438.5,-38.5 354.5,-38.5"/>
-<text text-anchor="middle" x="396.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::string::size</text>
-</a>
-</g>
-</g>
-<!-- Node11&#45;&gt;Node12 -->
-<g id="edge12" class="edge">
-<title>Node11&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M301.52,-48C314.21,-48 329.36,-48 343.75,-48"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="344.05,-51.5 354.05,-48 344.05,-44.5 344.05,-51.5"/>
-</g>
-<!-- Node13&#45;&gt;Node12 -->
-<g id="edge15" class="edge">
-<title>Node13&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M295.7,-17.42C312.46,-22.55 335.19,-29.52 354.72,-35.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="353.71,-38.85 364.3,-38.44 355.76,-32.16 353.71,-38.85"/>
-</g>
-<!-- Node14 -->
-<g id="node14" class="node">
-<title>Node14</title>
-<g id="a_node14"><a xlink:href="../../d1/df3/hash__search_8cpp.html#a566eaf0ffafd50bc61e644561fd27001" target="_top" xlink:title=" ">
+<!-- Node13 -->
+<g id="node13" class="node">
+<title>Node13</title>
+<g id="a_node13"><a xlink:href="../../d1/df3/hash__search_8cpp.html#a566eaf0ffafd50bc61e644561fd27001" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="382,-0.5 382,-19.5 411,-19.5 411,-0.5 382,-0.5"/>
 <text text-anchor="middle" x="396.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">h</text>
 </a>
 </g>
 </g>
-<!-- Node13&#45;&gt;Node14 -->
-<g id="edge14" class="edge">
-<title>Node13&#45;&gt;Node14</title>
+<!-- Node12&#45;&gt;Node13 -->
+<g id="edge13" class="edge">
+<title>Node12&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M295.7,-10C317.65,-10 349.82,-10 371.65,-10"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="371.74,-13.5 381.74,-10 371.74,-6.5 371.74,-13.5"/>
 </g>

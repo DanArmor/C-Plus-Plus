@@ -113,9 +113,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ad877675b2bb7ee4535bd57ca132753d1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/class_bitset.html#ad877675b2bb7ee4535bd57ca132753d1">Bitset</a> (<a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> initSize)</td></tr>
 <tr class="memdesc:ad877675b2bb7ee4535bd57ca132753d1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor for <a class="el" href="../../d6/d09/class_bitset.html" title="Simple bitset implementation for bloom filter.">Bitset</a>.  <a href="../../d6/d09/class_bitset.html#ad877675b2bb7ee4535bd57ca132753d1">More...</a><br /></td></tr>
 <tr class="separator:ad877675b2bb7ee4535bd57ca132753d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a87183ba06f46eff7a64b5e9b3a836e"><td class="memItemLeft" align="right" valign="top"><a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/class_bitset.html#a9a87183ba06f46eff7a64b5e9b3a836e">size</a> (void)</td></tr>
-<tr class="memdesc:a9a87183ba06f46eff7a64b5e9b3a836e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns size of inner array.  <a href="../../d6/d09/class_bitset.html#a9a87183ba06f46eff7a64b5e9b3a836e">More...</a><br /></td></tr>
-<tr class="separator:a9a87183ba06f46eff7a64b5e9b3a836e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77a52b97b7ff4120ad92e1ed2a0d531d"><td class="memItemLeft" align="right" valign="top"><a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/class_bitset.html#a77a52b97b7ff4120ad92e1ed2a0d531d">size</a> ()</td></tr>
+<tr class="memdesc:a77a52b97b7ff4120ad92e1ed2a0d531d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns size of inner array.  <a href="../../d6/d09/class_bitset.html#a77a52b97b7ff4120ad92e1ed2a0d531d">More...</a><br /></td></tr>
+<tr class="separator:a77a52b97b7ff4120ad92e1ed2a0d531d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a60e5462233fa5852f1e4e4593d41a601"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d09/class_bitset.html#a60e5462233fa5852f1e4e4593d41a601">add</a> (<a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> x)</td></tr>
 <tr class="memdesc:a60e5462233fa5852f1e4e4593d41a601"><td class="mdescLeft">&#160;</td><td class="mdescRight">Turn bit on position x to 1s.  <a href="../../d6/d09/class_bitset.html#a60e5462233fa5852f1e4e4593d41a601">More...</a><br /></td></tr>
 <tr class="separator:a60e5462233fa5852f1e4e4593d41a601"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -144,6 +144,9 @@ Static Private Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">Bitset::Bitset </td>
@@ -153,6 +156,11 @@ Static Private Attributes</h2></td></tr>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 <p>Constructor for <a class="el" href="../../d6/d09/class_bitset.html" title="Simple bitset implementation for bloom filter.">Bitset</a>. </p>
@@ -254,8 +262,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a9a87183ba06f46eff7a64b5e9b3a836e" name="a9a87183ba06f46eff7a64b5e9b3a836e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9a87183ba06f46eff7a64b5e9b3a836e">&#9670;&nbsp;</a></span>size()</h2>
+<a id="a77a52b97b7ff4120ad92e1ed2a0d531d" name="a77a52b97b7ff4120ad92e1ed2a0d531d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a77a52b97b7ff4120ad92e1ed2a0d531d">&#9670;&nbsp;</a></span>size()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -263,7 +271,6 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="memname"><a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> Bitset::size </td>
           <td>(</td>
-          <td class="paramtype">void&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -276,7 +283,7 @@ Here is the call graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d6/d09/class_bitset_a9a87183ba06f46eff7a64b5e9b3a836e_cgraph.svg" width="263" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d6/d09/class_bitset_a77a52b97b7ff4120ad92e1ed2a0d531d_cgraph.svg" width="263" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 

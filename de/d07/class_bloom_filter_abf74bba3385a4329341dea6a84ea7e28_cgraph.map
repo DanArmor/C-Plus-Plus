@@ -1,7 +1,7 @@
 <map id="BloomFilter::add" name="BloomFilter::add">
 <area shape="rect" id="node1" title="Add function for Bloom filter." alt="" coords="5,31,123,57"/>
 <area shape="rect" id="node2" href="$d6/d09/class_bitset.html#a60e5462233fa5852f1e4e4593d41a601" title="Turn bit on position x to 1s." alt="" coords="172,5,257,32"/>
-<area shape="rect" id="node5" href="$d6/d09/class_bitset.html#a9a87183ba06f46eff7a64b5e9b3a836e" title="Returns size of inner array." alt="" coords="171,56,259,83"/>
+<area shape="rect" id="node5" href="$d6/d09/class_bitset.html#a77a52b97b7ff4120ad92e1ed2a0d531d" title="Returns size of inner array." alt="" coords="171,56,259,83"/>
 <area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/resize.html#" title=" " alt="" coords="307,5,433,32"/>
 <area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/size.html#" title=" " alt="" coords="312,56,428,83"/>
 </map>
