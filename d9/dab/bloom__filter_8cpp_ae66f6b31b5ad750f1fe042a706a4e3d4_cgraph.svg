@@ -189,20 +189,5 @@
 <path fill="none" stroke="midnightblue" d="M168.19,-38.41C188.72,-32.66 214.73,-25.36 235.27,-19.6"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="236.46,-22.9 245.15,-16.83 234.57,-16.16 236.46,-22.9"/>
 </g>
-<!-- Node13 -->
-<g id="node13" class="node">
-<title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d1/df3/hash__search_8cpp.html#a566eaf0ffafd50bc61e644561fd27001" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="382,-0.5 382,-19.5 411,-19.5 411,-0.5 382,-0.5"/>
-<text text-anchor="middle" x="396.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">h</text>
-</a>
-</g>
-</g>
-<!-- Node12&#45;&gt;Node13 -->
-<g id="edge13" class="edge">
-<title>Node12&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M295.7,-10C317.65,-10 349.82,-10 371.65,-10"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="371.74,-13.5 381.74,-10 371.74,-6.5 371.74,-13.5"/>
-</g>
 </g>
 </svg>
