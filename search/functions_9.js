@@ -94,7 +94,7 @@ var searchData=
   ['islower_91',['islower',['http://en.cppreference.com/w/cpp/string/byte/islower.html',0,'std']]],
   ['isnan_92',['isnan',['http://en.cppreference.com/w/cpp/numeric/math/isnan.html',0,'std']]],
   ['isnormal_93',['isnormal',['http://en.cppreference.com/w/cpp/numeric/math/isnormal.html',0,'std']]],
-  ['ispossible_94',['isPossible',['../d6/d7b/sudoku__solve_8cpp.html#a07dc6acffd0500de9bdbf16b3ade94b0',1,'backtracking::sudoku_solver']]],
+  ['ispossible_94',['isPossible',['../d3/d05/sudoku__solver_8cpp.html#a07dc6acffd0500de9bdbf16b3ade94b0',1,'backtracking::sudoku_solver']]],
   ['isprime_95',['isPrime',['../d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#a09660096b134753128952246f4f4e4bd',1,'modular_inverse_fermat_little_theorem.cpp']]],
   ['isprime_96',['IsPrime',['../da/d7b/primality__test_8cpp.html#a2bfa6adead2bdcbf1dac94cbe08d7eaf',1,'primality_test.cpp']]],
   ['isprint_97',['isprint',['http://en.cppreference.com/w/cpp/string/byte/isprint.html',0,'std']]],
