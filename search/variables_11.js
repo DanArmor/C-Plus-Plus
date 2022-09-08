@@ -3,7 +3,7 @@ var searchData=
   ['s_5fsize_0',['s_size',['../d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#ac6d912bbfafa3a7509f66bbc1729ca25',1,'range_queries::heavy_light_decomposition::SG']]],
   ['s_5ftree_1',['s_tree',['../d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#afbf8a9cb9449d5ca844f4e141a801e6a',1,'range_queries::heavy_light_decomposition::SG']]],
   ['schedule_2',['schedule',['../dd/dca/class_f_c_f_s.html#af2594e22a867b308e027623940193d46',1,'FCFS']]],
-  ['set_3',['set',['../de/d07/class_bloom_filter.html#ad5b2ddca50f49222fdc096da9bc53305',1,'BloomFilter']]],
+  ['set_3',['set',['../dc/dd4/classdata__structures_1_1_bloom_filter.html#a90268d7901e2c1ab5f8bf8b24a30e119',1,'data_structures::BloomFilter']]],
   ['setsize_4',['setSize',['../dd/d1f/classdsu.html#ac0dc3e17e49fe19b159b4ea4096d7b55',1,'dsu']]],
   ['side_5',['side',['../de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9d10768f927baa8a4d4a5ffce295b6b6',1,'graph::is_graph_bipartite::Graph']]],
   ['size_6',['size',['../d1/dc2/classstack.html#ac512a3efdc84a5f5c9f53905c8e219b0',1,'stack']]],

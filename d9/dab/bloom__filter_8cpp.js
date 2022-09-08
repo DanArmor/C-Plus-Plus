@@ -1,13 +1,13 @@
 var bloom__filter_8cpp =
 [
-    [ "Bitset", "d6/d09/class_bitset.html", "d6/d09/class_bitset" ],
-    [ "BloomFilter< T >", "de/d07/class_bloom_filter.html", "de/d07/class_bloom_filter" ],
-    [ "hashDJB2", "d9/dab/bloom__filter_8cpp.html#a8acf02700cd197c9d40927d8d8106e0f", null ],
-    [ "hashInt_1", "d9/dab/bloom__filter_8cpp.html#a574dd0ecfa8c7278f6d6f7da1db5c485", null ],
-    [ "hashInt_2", "d9/dab/bloom__filter_8cpp.html#aa4c5cbd8de1820c08bcdd87c3a6543cd", null ],
-    [ "hashStr", "d9/dab/bloom__filter_8cpp.html#ab0bb73bb0fd4cc21c5451acf5339ab47", null ],
+    [ "data_structures::Bitset", "d9/dae/classdata__structures_1_1_bitset.html", "d9/dae/classdata__structures_1_1_bitset" ],
+    [ "data_structures::BloomFilter< T >", "dc/dd4/classdata__structures_1_1_bloom_filter.html", "dc/dd4/classdata__structures_1_1_bloom_filter" ],
+    [ "hashDJB2", "d9/dab/bloom__filter_8cpp.html#a271c753baf6dc5ac6f19fa03c5873eb4", null ],
+    [ "hashInt_1", "d9/dab/bloom__filter_8cpp.html#aa6deb9d4a0f63ea97aef3dce4c6c6677", null ],
+    [ "hashInt_2", "d9/dab/bloom__filter_8cpp.html#a9ed236419034917c5270c1dccd220b5c", null ],
+    [ "hashStr", "d9/dab/bloom__filter_8cpp.html#a35eb2bc3edbb52f9c5f0b1e51046ef15", null ],
     [ "main", "d9/dab/bloom__filter_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4", null ],
     [ "test_bitset", "d9/dab/bloom__filter_8cpp.html#a6e509afe40db07681f676ad8da4fb905", null ],
     [ "test_bloom_filter_int", "d9/dab/bloom__filter_8cpp.html#a30edc0d2bb59c185baec81d69d20ed3b", null ],
-    [ "test_bloom_filter_string", "d9/dab/bloom__filter_8cpp.html#a71f57bf262fe55db928b19dc124cc0d8", null ]
+    [ "test_bloom_filter_string", "d9/dab/bloom__filter_8cpp.html#a81b4bc3d24c9622c8ac081a0fe5ae5db", null ]
 ];

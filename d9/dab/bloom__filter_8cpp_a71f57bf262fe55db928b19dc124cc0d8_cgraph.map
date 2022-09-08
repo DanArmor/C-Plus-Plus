@@ -1,5 +1,0 @@
-<map id="test_bloom_filter_string" name="test_bloom_filter_string">
-<area shape="rect" id="node1" title="Test for bloom filter with string as generic type." alt="" coords="5,31,163,56"/>
-<area shape="rect" id="node2" href="$d9/dab/bloom__filter_8cpp.html#a8acf02700cd197c9d40927d8d8106e0f" title="Function djb2, to get hash for string" alt="" coords="211,5,293,31"/>
-<area shape="rect" id="node3" href="$d9/dab/bloom__filter_8cpp.html#ab0bb73bb0fd4cc21c5451acf5339ab47" title="Hash function, to get hash for string" alt="" coords="219,55,285,80"/>
-</map>
