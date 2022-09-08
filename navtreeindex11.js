@@ -1,12 +1,11 @@
 var NAVTREEINDEX11 =
 {
-"dd/d1c/classhash__chain.html#a846a2f921f8fb7ea572e03901b671d64":[10,0,30,5],
 "dd/d1c/classhash__chain.html#ae8457d13620497fa2046ac566252c4b0":[10,0,30,7],
 "dd/d1c/classhash__chain.html#ae9ddce410015ed8dda6380130d82d6c2":[10,0,30,6],
 "dd/d1f/classdsu.html":[10,0,24],
 "dd/d1f/classdsu.html#a0ce2672c570f4235eafddb0c9a58115a":[10,0,24,4],
-"dd/d1f/classdsu.html#a126e3002a464e53cd54b07ba56482a72":[10,0,24,0],
 "dd/d1f/classdsu.html#a126e3002a464e53cd54b07ba56482a72":[10,0,24,1],
+"dd/d1f/classdsu.html#a126e3002a464e53cd54b07ba56482a72":[10,0,24,0],
 "dd/d1f/classdsu.html#a16851f78fe390fc1430905c83d6a2f1c":[10,0,24,2],
 "dd/d1f/classdsu.html#a16851f78fe390fc1430905c83d6a2f1c":[10,0,24,3],
 "dd/d1f/classdsu.html#a1c24228b0f2f49220133fb8c3566a55c":[10,0,24,10],
@@ -201,8 +200,8 @@ var NAVTREEINDEX11 =
 "de/d48/struct_trie_1_1_trie_node.html":[10,0,51,0],
 "de/d4a/class_compare.html":[10,0,19],
 "de/d4a/class_compare.html#afbdf9a44adb49728dc704155d7d1570c":[10,0,19,0],
-"de/d4f/structmath_1_1_point.html":[10,0,7,1],
 "de/d4f/structmath_1_1_point.html":[9,0,59,0],
+"de/d4f/structmath_1_1_point.html":[10,0,7,1],
 "de/d6a/knuth__morris__pratt_8cpp.html":[11,0,21,2],
 "de/d6a/knuth__morris__pratt_8cpp.html#a26a58225ce7d3fa9d4c2f5349a65ed93":[11,0,21,2,1],
 "de/d6a/knuth__morris__pratt_8cpp.html#a996573527312d5255e1495b879e8a34f":[11,0,21,2,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX11 =
 "de/d9d/classdata__structures_1_1linked__list_1_1link.html#af6bbeb9bfde1683ba917071edeedd5c3":[10,0,1,0,0,1],
 "de/d9d/classdata__structures_1_1linked__list_1_1link.html#af94c06f3220e5406245680f58b8e7081":[10,0,1,0,0,3],
 "de/dab/ncr__modulo__p_8cpp.html":[11,0,13,39],
-"de/dab/ncr__modulo__p_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,39,1]
+"de/dab/ncr__modulo__p_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,39,1],
+"de/dab/ncr__modulo__p_8cpp.html#af0a3e6827f41c151e47451f5ff98b1f1":[11,0,13,39,2]
 };

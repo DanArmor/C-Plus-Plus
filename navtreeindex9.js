@@ -1,6 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"da/d24/sqrt__double_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,49,0],
 "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html":[10,0,1,3,0],
 "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#a0c8cbe7239232863f104793c08273039":[10,0,1,3,0,0],
 "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#a6cf72f93b1551f0d943c585b4f173be3":[10,0,1,3,0,2],
@@ -119,8 +118,8 @@ var NAVTREEINDEX9 =
 "da/dd1/structquadratic__probing_1_1_entry.html":[9,0,84,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[10,0,11,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[9,0,84,0,1],
-"da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[9,0,84,0,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[10,0,11,0,0],
+"da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[9,0,84,0,0],
 "da/dd3/karatsuba__algorithm__for__fast__multiplication_8cpp.html":[11,0,5,0],
 "da/dd3/karatsuba__algorithm__for__fast__multiplication_8cpp.html#a7a890d2f26855ada3b9f1d43aec70a86":[11,0,5,0,1],
 "da/dd3/karatsuba__algorithm__for__fast__multiplication_8cpp.html#a7d1dbae365c7746295d3322e6f7f80b6":[11,0,5,0,0],
@@ -168,10 +167,10 @@ var NAVTREEINDEX9 =
 "db/d16/0__1__knapsack_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,6,0,0],
 "db/d19/structlinear__probing_1_1_entry.html":[10,0,5,0],
 "db/d19/structlinear__probing_1_1_entry.html":[9,0,51,0],
-"db/d19/structlinear__probing_1_1_entry.html#a2139f643a3caf074da1db8a9fa16fa77":[9,0,51,0,0],
 "db/d19/structlinear__probing_1_1_entry.html#a2139f643a3caf074da1db8a9fa16fa77":[10,0,5,0,0],
-"db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a":[9,0,51,0,1],
+"db/d19/structlinear__probing_1_1_entry.html#a2139f643a3caf074da1db8a9fa16fa77":[9,0,51,0,0],
 "db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a":[10,0,5,0,1],
+"db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a":[9,0,51,0,1],
 "db/d27/n__bonacci_8cpp.html":[11,0,13,37],
 "db/d27/n__bonacci_8cpp.html#a6849b68f760be628d5975ab3eddec63d":[11,0,13,37,1],
 "db/d27/n__bonacci_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,13,37,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX9 =
 "db/d9a/classuint128__t.html#a16e7e1211ba6c27e9a229d97fb0d9190":[10,0,52,50],
 "db/d9a/classuint128__t.html#a16eb351c1d0ed3b89c771c63808e035a":[10,0,52,53],
 "db/d9a/classuint128__t.html#a1d390c6ea5450680dcaff341235f0fed":[10,0,52,40],
-"db/d9a/classuint128__t.html#a1ee2f1ffbd9984faad34883eb45e9705":[10,0,52,77]
+"db/d9a/classuint128__t.html#a1ee2f1ffbd9984faad34883eb45e9705":[10,0,52,77],
+"db/d9a/classuint128__t.html#a225146042c6456a3c5595645870ca640":[10,0,52,24]
 };
