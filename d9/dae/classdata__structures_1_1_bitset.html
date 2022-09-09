@@ -176,8 +176,8 @@ Static Private Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">   64</span>: <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>(initSize) {}</div>
-<div class="ttc" id="aclassdata__structures_1_1_bitset_html_ae86688cf99b77342deedb75149573e73"><div class="ttname"><a href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data_structures::Bitset::data</a></div><div class="ttdeci">std::vector&lt; std::size_t &gt; data</div><div class="ttdoc">short info of this variable</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:41</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   65</span>: <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>(initSize) {}</div>
+<div class="ttc" id="aclassdata__structures_1_1_bitset_html_ae86688cf99b77342deedb75149573e73"><div class="ttname"><a href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data_structures::Bitset::data</a></div><div class="ttdeci">std::vector&lt; std::size_t &gt; data</div><div class="ttdoc">short info of this variable</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:42</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -206,14 +206,14 @@ Static Private Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>void </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   72</span>                            {</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> blockIndex = x / <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>;</div>
-<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">if</span> (blockIndex &gt;= <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>()) {</div>
-<div class="line"><span class="lineno">   75</span>        <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/resize.html">resize</a>(blockIndex + 1);</div>
-<div class="line"><span class="lineno">   76</span>    }</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>[blockIndex] |= 1 &lt;&lt; (x % <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>);</div>
-<div class="line"><span class="lineno">   78</span>}</div>
-<div class="ttc" id="aclassdata__structures_1_1_bitset_html_ad7f7d479079a95bcc9175465395fa23f"><div class="ttname"><a href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">data_structures::Bitset::blockSize</a></div><div class="ttdeci">static const std::size_t blockSize</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:42</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   73</span>                            {</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> blockIndex = x / <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>;</div>
+<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (blockIndex &gt;= <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>()) {</div>
+<div class="line"><span class="lineno">   76</span>        <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/resize.html">resize</a>(blockIndex + 1);</div>
+<div class="line"><span class="lineno">   77</span>    }</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>[blockIndex] |= 1 &lt;&lt; (x % <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>);</div>
+<div class="line"><span class="lineno">   79</span>}</div>
+<div class="ttc" id="aclassdata__structures_1_1_bitset_html_ad7f7d479079a95bcc9175465395fa23f"><div class="ttname"><a href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">data_structures::Bitset::blockSize</a></div><div class="ttdeci">static const std::size_t blockSize</div><div class="ttdef"><b>Definition:</b> bloom_filter.cpp:43</div></div>
 <div class="ttc" id="aresize_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/container/vector/resize.html">std::vector::resize</a></div><div class="ttdeci">T resize(T... args)</div></div>
 <div class="ttc" id="asize_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/container/vector/size.html">std::vector::size</a></div><div class="ttdeci">T size(T... args)</div></div>
 <div class="ttc" id="asize_t_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a></div></div>
@@ -252,13 +252,13 @@ Here is the call graph for this function:</div>
 <dl class="section return"><dt>Returns</dt><dd>true if bit on position x is 1 </dd>
 <dd>
 false if bit on position x is 0 </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   87</span>                                 {</div>
-<div class="line"><span class="lineno">   88</span>    <a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> blockIndex = x / <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>;</div>
-<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">if</span> (blockIndex &gt;= <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>()) {</div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   91</span>    }</div>
-<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>[blockIndex] &amp; (1 &lt;&lt; (x % <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>));</div>
-<div class="line"><span class="lineno">   93</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   88</span>                                 {</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_classRef" target="_blank" href="http://en.cppreference.com/w/cpp/types/size_t.html">std::size_t</a> blockIndex = x / <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>;</div>
+<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">if</span> (blockIndex &gt;= <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>()) {</div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   92</span>    }</div>
+<div class="line"><span class="lineno">   93</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>[blockIndex] &amp; (1 &lt;&lt; (x % <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ad7f7d479079a95bcc9175465395fa23f">blockSize</a>));</div>
+<div class="line"><span class="lineno">   94</span>}</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -285,7 +285,7 @@ Here is the call graph for this function:</div>
 
 <p>Returns size of inner array. </p>
 <dl class="section return"><dt>Returns</dt><dd>size of inner array </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   57</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73">data</a>.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>(); }</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
