@@ -37,7 +37,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d9/dae/classdata__structures_1_1_bitset.html#a2f1f44d6a12b0de4aaf242872b1c7b54" target="_top" xlink:title="Returns size of inner array.">
+<g id="a_node4"><a xlink:href="../../d9/dae/classdata__structures_1_1_bitset.html#a2f1f44d6a12b0de4aaf242872b1c7b54" target="_top" xlink:title="Utility function to return the size of the inner array.">
 <polygon fill="white" stroke="#666666" points="292,-30 176,-30 176,0 292,0 292,-30"/>
 <text text-anchor="start" x="184" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::Bitset</text>
 <text text-anchor="middle" x="234" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::size</text>

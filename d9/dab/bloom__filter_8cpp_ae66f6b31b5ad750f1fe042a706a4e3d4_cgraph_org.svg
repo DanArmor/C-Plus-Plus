@@ -162,7 +162,7 @@
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d5/d3c/namespacedata__structures.html#a271c753baf6dc5ac6f19fa03c5873eb4" target="_top" xlink:title="Function djb2, to get hash for string">
+<g id="a_node11"><a xlink:href="../../d5/d3c/namespacedata__structures.html#a271c753baf6dc5ac6f19fa03c5873eb4" target="_top" xlink:title="Function djb2 to get hash for the given string.">
 <polygon fill="white" stroke="#666666" points="364.5,-56 228.5,-56 228.5,-37 364.5,-37 364.5,-56"/>
 <text text-anchor="middle" x="296.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::hashDJB2</text>
 </a>
@@ -177,7 +177,7 @@
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="../../d5/d3c/namespacedata__structures.html#a35eb2bc3edbb52f9c5f0b1e51046ef15" target="_top" xlink:title="Hash function, to get hash for string">
+<g id="a_node12"><a xlink:href="../../d5/d3c/namespacedata__structures.html#a35eb2bc3edbb52f9c5f0b1e51046ef15" target="_top" xlink:title="Hash function, to get hash for the given string.">
 <polygon fill="white" stroke="#666666" points="358.5,-19 234.5,-19 234.5,0 358.5,0 358.5,-19"/>
 <text text-anchor="middle" x="296.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::hashStr</text>
 </a>
